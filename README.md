@@ -1,6 +1,4 @@
-# Humescores
-Built for the LinkedIn Learning and Lynda.com course WordPress: Building Themes From Scratch Using Underscores, Humescores is an accessible content-first theme built around beautiful fonts and large images designed and developed by [Morten Rand-Hendriksen](http://mor10.com) for [lynda.com - a LinkedIn Company](http://lynda.com/mor10).
-## Features
+### WordPress Theme
 
 ### Customizer Options
 Extended options available from the Customizer:
@@ -21,7 +19,4 @@ Posts and pages can have Featured Images.
 ### Licenses and External Assets
 Humescores is distributed under the terms of the GNU GPL v2
 
-Humescores's code base started out as _s (http://underscores.me) as it were on November 28, 2016.
-
-### Namesake
-Popperscores is named after philosopher David Hume.
+Humescores' code base started out as _s (http://underscores.me)
